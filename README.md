@@ -15,12 +15,14 @@ knowledge in c porgramming and basic understanding of recursions.
  6. Exchangble parity- which mean made up from even and odd digit alternatly 
  7. Tower of hanoi.
 
+```
                #                  #           #
              __#___               #           #
           __|__1___|__            #           #
        __|_____2______|__         #           #
       |        3         |        #           #
 ############## A ################ B ######### C ########
+```
 
  8. Fibonacci series.
  
